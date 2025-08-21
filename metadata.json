@@ -1,10 +1,11 @@
 {
-  "total_images": 8,
-  "last_updated": "2025-08-21T17:54:06.739Z",
+  "total_images": 9,
+  "last_updated": "2025-08-21T17:59:31.385Z",
   "counts": {
     "value_8": 2,
     "value_11": 2,
     "value_14": 2,
-    "value_13": 2
+    "value_13": 2,
+    "value_1": 1
   }
 }
