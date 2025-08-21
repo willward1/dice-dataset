@@ -1,6 +1,6 @@
 {
-  "total_images": 21,
-  "last_updated": "2025-08-21T18:46:39.572Z",
+  "total_images": 22,
+  "last_updated": "2025-08-21T18:46:50.235Z",
   "counts": {
     "value_8": 3,
     "value_11": 2,
@@ -13,6 +13,7 @@
     "value_17": 1,
     "value_2": 1,
     "value_15": 1,
-    "unclear": 1
+    "unclear": 1,
+    "value_5": 1
   }
 }
