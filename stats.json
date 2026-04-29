@@ -1,7 +1,7 @@
 {
-  "total": 999,
+  "total": 1000,
   "correct": 650,
-  "accuracy": 65.1,
-  "lastUpdated": "2026-04-29T13:01:37.004Z",
+  "accuracy": 65,
+  "lastUpdated": "2026-04-29T13:18:17.368Z",
   "modelVersion": "v4_20260316"
 }
