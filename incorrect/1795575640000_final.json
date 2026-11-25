@@ -1,0 +1,9 @@
+{
+  "timestamp": "1795575640000_final",
+  "prediction": 5,
+  "confidence": 99.9,
+  "vote": "INCORRECT",
+  "actual": null,
+  "savedAt": "2026-11-25T03:00:50.519Z",
+  "source": "realdice.org"
+}
